@@ -5,6 +5,7 @@
  ******************************************************************************/
 #ifndef CIPSTER_CPF_H_
 #define CIPSTER_CPF_H_
+#include <stdint.h>
 
 #include "../typedefs.h"
 #include "../cip/ciptypes.h"

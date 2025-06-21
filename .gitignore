@@ -8,3 +8,4 @@ contrib/
 *~
 CMakeCache.txt
 *.patch
+build/

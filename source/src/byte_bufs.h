@@ -5,7 +5,7 @@
 
 #ifndef BYTE_BUFS_H_
 #define BYTE_BUFS_H_
-
+#include <stdint.h>
 #include <string>
 #include <stdexcept>    // for the convenience of clients of these classes, which throw
 
