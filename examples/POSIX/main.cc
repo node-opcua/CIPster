@@ -49,7 +49,7 @@ int main( int argc, char* argv[] )
 
     if( argc != 7 )
     {
-        printf( "Wrong number of command line parameters! %d instead of 12\n", argc );
+        printf( "Wrong number of command line parameters! %d instead of 7\n", argc );
         printf( "The correct command line parameters are:\n" );
         printf( "%s ipaddress subnetmask gateway domainname hostaddress macaddress\n", argv[0] );
         printf( "e.g.\n" );
